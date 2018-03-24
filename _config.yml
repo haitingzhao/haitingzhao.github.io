@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: ZHT Blog
+SEOTitle: 赵海艇的博客 | ZHT Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+email: haiting.zhao@qq.com
+description: "Stay hungry, Stay foolish."
+keyword: "赵海艇,ZHT Blog, 赵海艇的博客, haitingzhao, 机器学习, 计算机视觉, 模式识别"
 url: "http://haitingzhao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/haitingzhao/haitingzhao.github.io.git" # you code repository
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "知乎",
+        href: "http://www.zhihu.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "百度",
+        href: "http://www.baidu.com"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "UCI数据集",
+        href: "https://www.uci.edu"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Linux",
+        href: "https://www.linux.org/"
     }
 ]
